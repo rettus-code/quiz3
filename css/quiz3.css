@@ -9720,11 +9720,12 @@ main {
 
 .sideleft {
   width: 30%;
-  padding-right: 5%;
+  margin-left: 5%;
 }
 
 .sideright {
   width: 60%;
+  margin-left: 5%;
 }
 
 .btn {
